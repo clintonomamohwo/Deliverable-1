@@ -10,6 +10,7 @@ package ca.sheridancollege.project;
  * enough to be instantiated for any Card game. Students wishing to add to the code 
  * should remember to add themselves as a modifier.
  * @author Sivagama
+ * @Modifier Gillingham Benjamin,Hauzaree Thanveer Sharma,Scott Kelvin and  Clinton Omamohwo
  */
 public abstract class Card 
 {
