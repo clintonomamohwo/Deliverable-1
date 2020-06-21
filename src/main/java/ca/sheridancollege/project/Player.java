@@ -8,6 +8,7 @@ package ca.sheridancollege.project;
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  * @author Sivagama
+ *  @Modifier Gillingham Benjamin,Hauzaree Thanveer Sharma,Scott Kelvin and  Clinton Omamohwo
  */
 public abstract class Player 
 {
